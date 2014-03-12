@@ -1,3 +1,6 @@
-This Eagle CAD library contains components used in my projects.
-Currently contains SP8M3 dual MOSFET only.
+This Eagle CAD library contains components used in my projects:
+* SP8M3 dual MOSFET
+* Dual (stereo) PCB-mounted potentiometer
+* UDA1361TS audio ADC
+* UDA1334BTS audio DAC
 
